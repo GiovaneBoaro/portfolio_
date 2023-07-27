@@ -220,6 +220,20 @@ label input {
   opacity: 1;
 }
 
+.mochila__de__viagem {
+  background-image: url("imgs/mochiladeviagem.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  opacity: 1;
+}
+
+.pokedex__flutter {
+  background-image: url("imgs/pokedexflutter.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  opacity: 1;
+}
+
 .project__title {
   color: white;
   font-weight: bold;
