@@ -169,10 +169,8 @@ label input {
 }
 
 .projects {
-  display: flex;
-  flex-direction: row;
-  flex-wrap: wrap;
-  justify-content: space-between;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
   grid-row-gap: 20px;
   text-align: center;
   margin-top: 20px;
